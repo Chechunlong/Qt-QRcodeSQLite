@@ -1,0 +1,10 @@
+<RCC>
+    <qresource prefix="/new/prefix1">
+        <file>images/LexinSQicon.png</file>
+        <file>images/Scaner.jpg</file>
+        <file>images/Serial.JPG</file>
+        <file>images/sqlite.png</file>
+        <file>help.txt</file>
+        <file>images/LexinSmartQRSQL.ico</file>
+    </qresource>
+</RCC>
